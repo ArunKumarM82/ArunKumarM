@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ArunKumarM82
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Analytics
+- 📫 reach me on email
+- 😄 Pronouns: he/him
