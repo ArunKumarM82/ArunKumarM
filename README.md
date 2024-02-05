@@ -2,7 +2,7 @@
 <h2>👨‍💻 Projects Portfolio:</h2>
 
 - <b>Power BI Dashboard</b>
-  - [WINFEX SALES ANALYSIS](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [WINFEX SALES ANALYSIS](https://github.com/ArunKumarM82/WINFEX-SALES-ANALYSIS)
   - [HUMAN RESOURCE DASHBOARD](https://github.com/joshmadakor1/Algorithms-Practice)
   - [CUSTOMER SALES ANALYSIS](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SQL Projects</b>
