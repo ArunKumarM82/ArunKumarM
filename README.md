@@ -7,12 +7,22 @@
   - [CUSTOMER SALES ANALYSIS](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SQL Projects</b>
   - [EXLORING DATA IN SQL](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
-  <!--
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/arunkumardx/
+
+<!--
 - <b>Excel Projects</b>
-  - .
+  - 
 - <b>Python (Pandas, NumPy)</b>
   - 
-  -->  
+
  
 
 
