@@ -9,7 +9,7 @@
   - [EXLORING DATA IN SQL](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
   <!--
 - <b>Excel Projects</b>
-  - 
+  - .
 - <b>Python (Pandas, NumPy)</b>
   - 
   -->  
