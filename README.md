@@ -4,7 +4,7 @@
 - <b>Power BI Dashboard</b>
   - [WINFEX SALES ANALYSIS](https://github.com/ArunKumarM82/WINFEX-SALES-ANALYSIS)
   - [HUMAN RESOURCE DASHBOARD](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [CUSTOMER SALES ANALYSIS](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [CUSTOMER SALES ANALYSIS](https://github.com/ArunKumarM82/CUSTOMER-SALES-ANALYSIS)
 - <b>SQL Projects</b>
   - [EXLORING DATA IN SQL](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 
