@@ -5,6 +5,7 @@
   - [WINFEX SALES ANALYSIS](https://github.com/ArunKumarM82/WINFEX-SALES-ANALYSIS)
   - [HUMAN RESOURCE DASHBOARD](https://github.com/ArunKumarM82/HUMAN-RESOURCE-DASHBOARD)
   - [CUSTOMER SALES ANALYSIS](https://github.com/ArunKumarM82/CUSTOMER-SALES-ANALYSIS)
+  - [INDIAN STUDENTS DATA ANALYSIS](https://github.com/ArunKumarM82/Indian-Students-Data)
 - <b>SQL Projects</b>
   - [EXLORING DATA IN SQL]() <b><i></b></i>
 
